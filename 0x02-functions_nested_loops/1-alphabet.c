@@ -4,7 +4,7 @@
  */
 void print_alphabet(void){
 	char letter;
-	for (letter='a' ; letter = 'z' ,lette++){
+	for ( letter = 'a' ; letter <= 'z' , lette++ ){
 		_putchar(letter);
-		_putchar("\n");
+		_putchar('\n');
 	}
