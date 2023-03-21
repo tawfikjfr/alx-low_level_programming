@@ -3,7 +3,7 @@
  *main-print putchar
  *return o
  */
-int main(){
+int main(void){
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -13,5 +13,5 @@ int main(){
 	_putchar('a');
 	_putchar('r');
 	-putchar'('\n');
-return 0;
+return (0);
 }
