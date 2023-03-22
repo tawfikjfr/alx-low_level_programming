@@ -7,7 +7,7 @@
  * Return: sum of a and b
  */
 int add(int, int){
-	int a,b,c;
+	int c;
 	c = a + b ;
 	return (c);
 }
